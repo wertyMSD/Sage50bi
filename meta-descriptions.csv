@@ -1,20 +1,20 @@
 Page,Meta description
-https://wertymsd.github.io/sage50bi/,Es un Herramienta que  permite crear consultas personalizadas a partir de plantillas de ficheros de texto plano con extensión .sql que contienen diferente apartados puedes realizar los siguiente procesos con los datos de la bases de datos SAGE50.
-https://wertymsd.github.io/sage50bi/conexion-con-sage50/,"Explicación detallada de cómo conectar la herramienta a la base de datos SQL. Esto puede incluir cómo ingresar los detalles del servidor, el nombre de usuario y la contraseña, y cómo seleccionar la base de datos."
-https://wertymsd.github.io/sage50bi/configuracion-api-google/,Con cuenta Gmail es necesario configurar el API creando un proyecto  para alimentar la tablas necesarias esto le permitirá compartir los informes o realizar cuadros de mandos. Estas configuración permiten autenticarnos con Google y acceder a sus servicios de forma segura y eficiente.
-https://wertymsd.github.io/sage50bi/configuracion-secccion-email/,Envió usando Aplicacion outlook version escritorio
-https://wertymsd.github.io/sage50bi/configuracion-secccion-envio/,Consulta en la bases de datos SAGE50 para crear añadir o crear una condición filtrada para cada cliente y generar un documento diferenciado para cada uno.
+https://wertymsd.github.io/sage50bi/,"Crea consultas personalizadas en SAGE50 con plantillas SQL y simplifica los cuadro de mando y informes, Realiza informes  avanzados de manera eficiente y sencilla."
+https://wertymsd.github.io/sage50bi/conexion-con-sage50/,"Aprende a conectar SAGE50 BI a tu base de datos SQL paso a paso. Configura servidor, usuario y selecciona la base de datos fácilmente."
+https://wertymsd.github.io/sage50bi/configuracion-api-google/,Configura la API de Google en SAGE50 BI con tu cuenta Gmail y gestiona informes y cuadros de mando de forma segura y eficiente.
+https://wertymsd.github.io/sage50bi/configuracion-secccion-email/,Configura el envío de correos en SAGE50 BI usando la versión de escritorio de Outlook para facilitar la automatización de informes o con el estandar SMTP.
+https://wertymsd.github.io/sage50bi/configuracion-secccion-envio/,"Genera documentos personalizados filtrando datos en SAGE50 para cada cliente, vendedor o proveedor de manera eficiente con condiciones personalizadas."
 https://wertymsd.github.io/sage50bi/configuracion-secccion-exporta/,Formato del fichero resultado de la exportacion de la consulta SQL
-https://wertymsd.github.io/sage50bi/configuracion-secccion-ftp/,Datos necesario para subir el fichero generado a un servidor FTP
-https://wertymsd.github.io/sage50bi/configuracion-secccion-informe/,Configuración para usar informes usan [[Sage50bi/docs/generador-informes-microsoft-power-bi]].
-https://wertymsd.github.io/sage50bi/configuracion-secccion-sql/,Consulta sobre la bases de datos del Grupo de empresa de SAGE50.
-https://wertymsd.github.io/sage50bi/generador-informes-microsoft-power-bi/,Cree informes paginados con píxeles perfectos para su impresión o distribución electrónica gracias a una experiencia conocida en la que confían miles de autores de informes.
-https://wertymsd.github.io/sage50bi/guia-archivos-plantillas-informes/,Cada consulta que se desee debe contener la siguiente estructura tome como ejemplo:
-https://wertymsd.github.io/sage50bi/link-descarga/,Link para la descarga del programa gratuitamen para realizar informes y cuadro de texto para SAGE50
-https://wertymsd.github.io/sage50bi/looker-studio/,Looker Studio es una herramienta gratuita de Google que te permite crear informes y paneles personalizados con datos de diferentes fuentes.
-https://wertymsd.github.io/sage50bi/parametros-ejecucion-sage50bi/,El madrid va ganar la liga
-https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-articulos/,
-https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-clientes/,
-https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-contabilidad/,
-https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-previsiones/,
-https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-proveedores/,
+https://wertymsd.github.io/sage50bi/configuracion-secccion-ftp/,Genera documentos personalizados filtrando datos en SAGE50 para cada cliente de manera eficiente con condiciones personalizadas.
+https://wertymsd.github.io/sage50bi/configuracion-secccion-informe/,Configura informes en SAGE50 BI utilizando el generador de informes de Microsoft Power BI. Optimiza la presentación de datos.
+https://wertymsd.github.io/sage50bi/configuracion-secccion-sql/,Realiza consultas avanzadas en la base de datos del Grupo de empresas en SAGE50. Automatiza la extracción y análisis de datos.
+https://wertymsd.github.io/sage50bi/generador-informes-microsoft-power-bi/,Crea informes profesionales y perfectamente adaptados para impresión o distribución electrónica con Microsoft Power BI en SAGE50.
+https://wertymsd.github.io/sage50bi/guia-archivos-plantillas-informes/,Estructura consulta en SAGE50 BI con plantillas bien organizadas. Mejora la gestión y comprensión de los informes.
+https://wertymsd.github.io/sage50bi/link-descarga/,Descarga gratuita del programa para crear informes personalizados y cuadros de mando en SAGE50. Mejora tu análisis de datos.
+https://wertymsd.github.io/sage50bi/looker-studio/,Crea informes personalizados y paneles interactivos con Looker Studio conectando datos de diversas fuentes. Ideal para SAGE50.
+https://wertymsd.github.io/sage50bi/parametros-ejecucion-sage50bi/,Define los parámetros de ejecución en SAGE50 BI para automatizar procesos. Personaliza tus informes y consultas fácilmente.
+https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-articulos/,Plantillas de ejemplos para consultas de artículos en SAGE50. Optimiza el análisis de inventarios y catálogos de productos.
+https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-clientes/,Plantillas de ejemplos para consultas de clientes en SAGE50. Mejora la gestión y análisis de tu base de datos de clientes.
+https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-contabilidad/,Plantillas de ejemplos para consultas de contabilidad en SAGE50. Facilita el análisis financiero y la generación de informes contables.
+https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-previsiones/,Plantillas de ejemplos para consultas de previsiones en SAGE50. Mejora la planificación y predicciones de ventas y stock.
+https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-proveedores/,Plantillas de ejemplos para consultas de proveedores en SAGE50. Mejora la gestión y análisis de tus relaciones comerciales.
