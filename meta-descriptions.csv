@@ -1,6 +1,5 @@
 Page,Meta description
 https://wertymsd.github.io/sage50bi/,Es un Herramienta que  permite crear consultas personalizadas a partir de plantillas de ficheros de texto plano con extensión .sql que contienen diferente apartados puedes realizar los siguiente procesos con los datos de la bases de datos SAGE50.
-https://wertymsd.github.io/sage50bi/Paste/,
 https://wertymsd.github.io/sage50bi/conexion-con-sage50/,"Explicación detallada de cómo conectar la herramienta a la base de datos SQL. Esto puede incluir cómo ingresar los detalles del servidor, el nombre de usuario y la contraseña, y cómo seleccionar la base de datos."
 https://wertymsd.github.io/sage50bi/configuracion-api-google/,Con cuenta Gmail es necesario configurar el API creando un proyecto  para alimentar la tablas necesarias esto le permitirá compartir los informes o realizar cuadros de mandos. Estas configuración permiten autenticarnos con Google y acceder a sus servicios de forma segura y eficiente.
 https://wertymsd.github.io/sage50bi/configuracion-secccion-email/,Envió usando Aplicacion outlook version escritorio
@@ -9,10 +8,9 @@ https://wertymsd.github.io/sage50bi/configuracion-secccion-exporta/,Formato del 
 https://wertymsd.github.io/sage50bi/configuracion-secccion-ftp/,Datos necesario para subir el fichero generado a un servidor FTP
 https://wertymsd.github.io/sage50bi/configuracion-secccion-informe/,Configuración para usar informes usan [[Sage50bi/docs/generador-informes-microsoft-power-bi]].
 https://wertymsd.github.io/sage50bi/configuracion-secccion-sql/,Consulta sobre la bases de datos del Grupo de empresa de SAGE50.
-https://wertymsd.github.io/sage50bi/docs/,
 https://wertymsd.github.io/sage50bi/generador-informes-microsoft-power-bi/,Cree informes paginados con píxeles perfectos para su impresión o distribución electrónica gracias a una experiencia conocida en la que confían miles de autores de informes.
 https://wertymsd.github.io/sage50bi/guia-archivos-plantillas-informes/,Cada consulta que se desee debe contener la siguiente estructura tome como ejemplo:
-https://wertymsd.github.io/sage50bi/link-descarga/,
+https://wertymsd.github.io/sage50bi/link-descarga/,Cada consulta que se desee debe contener la siguiente estructura tome como ejemplo:
 https://wertymsd.github.io/sage50bi/looker-studio/,Looker Studio es una herramienta gratuita de Google que te permite crear informes y paneles personalizados con datos de diferentes fuentes.
 https://wertymsd.github.io/sage50bi/parametros-ejecucion-sage50bi/,
 https://wertymsd.github.io/sage50bi/ejemplos/ejemplos-plantillas-articulos/,
