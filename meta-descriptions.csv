@@ -3,7 +3,7 @@ https://wertymsd.github.io/sage50bi/,Es un Herramienta que  permite crear consul
 https://wertymsd.github.io/sage50bi/Paste/,
 https://wertymsd.github.io/sage50bi/conexion-con-sage50/,"Explicación detallada de cómo conectar la herramienta a la base de datos SQL. Esto puede incluir cómo ingresar los detalles del servidor, el nombre de usuario y la contraseña, y cómo seleccionar la base de datos."
 https://wertymsd.github.io/sage50bi/configuracion-api-google/,Con cuenta Gmail es necesario configurar el API creando un proyecto  para alimentar la tablas necesarias esto le permitirá compartir los informes o realizar cuadros de mandos. Estas configuración permiten autenticarnos con Google y acceder a sus servicios de forma segura y eficiente.
-https://wertymsd.github.io/sage50bi/configuracion-secccion-email/,Envió usando Aplicacion outlook
+https://wertymsd.github.io/sage50bi/configuracion-secccion-email/,Envió usando Aplicacion outlook version escritorio
 https://wertymsd.github.io/sage50bi/configuracion-secccion-envio/,Consulta en la bases de datos SAGE50 para crear añadir o crear una condición filtrada para cada cliente y generar un documento diferenciado para cada uno.
 https://wertymsd.github.io/sage50bi/configuracion-secccion-exporta/,Formato del fichero resultado de la exportacion de la consulta SQL
 https://wertymsd.github.io/sage50bi/configuracion-secccion-ftp/,Datos necesario para subir el fichero generado a un servidor FTP
