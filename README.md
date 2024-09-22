@@ -16,6 +16,7 @@ Ofrecemos una versión de prueba gratuita de 30 días que te permite evaluar tod
 
 📘 Manual de uso
 Incluimos un manual de usuario detallado que te guiará paso a paso en la configuración y uso de la herramienta, para que puedas aprovecharla al máximo.
+[Link manual.](https://wertymsd.github.io/Sage50bi/) 
 
 📦 Instalación y Uso
 Requisitos:
@@ -26,7 +27,7 @@ Pasos para empezar:
 Descargar el archivo ejecutable desde nuestro sitio web o desde este repositorio:
 
 Descargar la herramienta
-Ejecutar el archivo descargado. No se requiere instalación de Python ni otras dependencias.
+Ejecutar el archivo descargado. [Link Descarga.](https://wertymsd.github.io/Sage50bi/link-descarga/)
 
 Configuración inicial: La primera vez que ejecutes la herramienta, te pedirá que ingreses las credenciales de conexión a la base de datos de SAGE50. Esta configuración se guarda para futuros usos.
 
